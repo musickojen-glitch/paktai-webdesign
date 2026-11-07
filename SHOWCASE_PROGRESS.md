@@ -24,3 +24,6 @@ Replaced three generic school news summaries and modal bodies with distinct orig
 
 ## 2026-11-08 clinic and temple content
 Added six distinct original news summaries and matching detail bodies for clinic (team roles, visit preparation, community learning) and temple (architecture, community archive, visit guidance). Fictional labels and structural source links preserved. Static assertions verified three replacements per page and disclaimer retention. No browser/mobile QA in this pass. Last deployed baseline ac26f39. Next: enrich remaining seven sectors; browser keyboard/narrow-screen checks and actual thumbnails remain queued.
+
+## 2026-11-08 prosecutor and court content
+Six original category-specific news summaries and detail bodies added, replacing generic placeholders. Legal pages explain information discovery only; no case-specific advice, submission, court fee, actual legal requirement or personal data. Source links and fictional labels retained. Static assertions: exactly three news cards replaced per page; visible demo labels preserved. Browser/keyboard/mobile not tested in this pass. Baseline commit 6d467ed. Next: remaining five categories (subdistrict, municipality, hospital, PAO, cooperative), then pending browser QA and thumbnails.
