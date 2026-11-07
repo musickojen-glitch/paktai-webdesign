@@ -18,3 +18,6 @@ Read main and this file before each run. Check current changes to avoid overwrit
 
 ## 2026-11-08 accessibility correction
 Source inspection found inherited dark button text on dark PAO cards and the first municipality card. Corrected those colors, added explicit focus-visible rings to links/buttons/search fields, inherited heading font sizes on article buttons, and small-screen brand wrapping/input shrink rules. Static CSS reviewed; no browser or mobile verification claimed in this run. Next: browser keyboard/narrow-screen QA, distinct article content and actual demo screenshot thumbnails. Preserve homepage/prices.
+
+## 2026-11-08 school article content
+Replaced three generic school news summaries and modal bodies with distinct original demonstration prose: open-house learning stations, library spaces and community inquiry. Preserved existing official structural source link and visible fictional-content label. No real dates, student names or event claims. Static checks: exactly 3 news cards replaced, 3 unique article texts, source/disclaimer retained. Browser interaction and responsive verification not performed in this pass. Previous verified commit 1c42360. Next: enrich the other nine categories, then browser keyboard/narrow-screen QA and actual page thumbnails.
