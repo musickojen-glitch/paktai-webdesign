@@ -15,3 +15,6 @@ Updated 2026-11-07. User authorized ongoing hourly development; preserve sales h
 
 ## Autonomous workflow
 Read main and this file before each run. Check current changes to avoid overwriting concurrent work. Complete bounded work, validate, update this progress record, commit with expected head, verify Cloudflare deployment. Report only verified completion. Do not buy services or request credentials. No unrelated repository edits.
+
+## 2026-11-08 accessibility correction
+Source inspection found inherited dark button text on dark PAO cards and the first municipality card. Corrected those colors, added explicit focus-visible rings to links/buttons/search fields, inherited heading font sizes on article buttons, and small-screen brand wrapping/input shrink rules. Static CSS reviewed; no browser or mobile verification claimed in this run. Next: browser keyboard/narrow-screen QA, distinct article content and actual demo screenshot thumbnails. Preserve homepage/prices.
