@@ -21,3 +21,6 @@ Source inspection found inherited dark button text on dark PAO cards and the fir
 
 ## 2026-11-08 school article content
 Replaced three generic school news summaries and modal bodies with distinct original demonstration prose: open-house learning stations, library spaces and community inquiry. Preserved existing official structural source link and visible fictional-content label. No real dates, student names or event claims. Static checks: exactly 3 news cards replaced, 3 unique article texts, source/disclaimer retained. Browser interaction and responsive verification not performed in this pass. Previous verified commit 1c42360. Next: enrich the other nine categories, then browser keyboard/narrow-screen QA and actual page thumbnails.
+
+## 2026-11-08 clinic and temple content
+Added six distinct original news summaries and matching detail bodies for clinic (team roles, visit preparation, community learning) and temple (architecture, community archive, visit guidance). Fictional labels and structural source links preserved. Static assertions verified three replacements per page and disclaimer retention. No browser/mobile QA in this pass. Last deployed baseline ac26f39. Next: enrich remaining seven sectors; browser keyboard/narrow-screen checks and actual thumbnails remain queued.
