@@ -69,3 +69,6 @@ Replaced seven repeated generic modal bodies with original school-specific demon
 
 ## 2026-11-08 temple information-center enrichment
 Seven generic detail bodies replaced with original fictional temple-specific content: history evidence, art, community, visiting, organization, FAQ and documents. No invented founding dates, monks, historical attribution, donation totals or transactions. Existing sources/layout retained. Static check exactly 7 replacements; browser/mobile not tested in this pass. Baseline 938f1c8f0fa89b4b46c78472f78145184ed3f2f5. Next clinic information center, then remaining 7 categories; browser content QA and mobile remain queued.
+
+## 2026-11-08 clinic information-center enrichment
+Replaced seven generic detail bodies with fictional clinic-specific information architecture (service categories, educational media, community coordination, previsit questions, organization, FAQ, documents). No medical advice, real schedules, eligibility, patient data or submissions. Existing layout and sources retained. Static replacement assertion passed: 7. Browser/mobile not tested for this edit. Baseline 84975c8a1f930448cb9fb0bfd711d9455aa8d778. Information enrichment now school/temple/clinic; remaining 7 categories next, plus browser content and mobile QA.
