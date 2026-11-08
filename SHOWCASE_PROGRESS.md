@@ -87,3 +87,7 @@ Seven generic detail bodies replaced with original fictional hospital-specific c
 
 ## 2026-11-09 cooperative information-center enrichment
 Seven generic detail bodies replaced with original fictional cooperative content: introduction, member service discovery, reading resources, meeting news, organization, FAQ and documents. No financial advice, returns, real figures, member data or transactions. Static replacement assertion 7 passed; existing layout/news/source links retained. Browser/mobile not checked for this edit. Baseline b605f8aaba8ab09974da3c5ca5f8d1c678d15683. Information centers enriched 8/10; prosecutor and court next, then content browser QA and responsive verification.
+
+
+## 2026-11-09 prosecutor information-center enrichment
+Replaced seven repeated detail bodies with original fictional content specific to prosecutor-office presentation: service discovery, contact guidance layout, reading library, documents, organization, website FAQ and reports. No legal advice, real case handling, personnel or invented metrics. Static replacement assertion: 7 matched and replaced. Existing layout, news and source links retained. Browser interactions and mobile layout not tested in this content edit. Baseline f23d14418209abcaa6188d12ac2ef64b69d82ccd; this entry is included in the same commit as the change. Information-center enrichment now 9/10. Next: court's seven details, then browser checks of new content and responsive QA; demo artwork remains in queue.
