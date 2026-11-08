@@ -91,3 +91,7 @@ Seven generic detail bodies replaced with original fictional cooperative content
 
 ## 2026-11-09 prosecutor information-center enrichment
 Replaced seven repeated detail bodies with original fictional content specific to prosecutor-office presentation: service discovery, contact guidance layout, reading library, documents, organization, website FAQ and reports. No legal advice, real case handling, personnel or invented metrics. Static replacement assertion: 7 matched and replaced. Existing layout, news and source links retained. Browser interactions and mobile layout not tested in this content edit. Baseline f23d14418209abcaa6188d12ac2ef64b69d82ccd; this entry is included in the same commit as the change. Information-center enrichment now 9/10. Next: court's seven details, then browser checks of new content and responsive QA; demo artwork remains in queue.
+
+
+## 2026-11-09 court information-center enrichment
+Replaced all seven generic court detail bodies with distinct original fictional visitor guide, document discovery, travel layout, external systems, organization, FAQ and reports content. No legal advice or real submissions. Static count assertion passed (7); original layout, source links and news preserved. Baseline bd3f2cef4c3812c47894fe18b019bcf046c1870c; commit containing this entry records this change. Information-center content pass now 10/10, not overall showcase completion. Browser, keyboard and responsive QA of enriched content remain unverified. Next: perform those checks, then demo-specific artwork from existing queue.
