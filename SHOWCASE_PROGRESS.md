@@ -84,3 +84,6 @@ Seven generic modal bodies replaced by original fictional PAO content: strategy,
 
 ## 2026-11-09 hospital information-center enrichment
 Seven generic detail bodies replaced with original fictional hospital-specific content: department discovery, visitor guide, source-based eligibility information layout, news, organization, FAQ and documents. No medical advice, actual appointment/fee/eligibility promises, health data or real personnel. Static replacement count 7 passed; existing source links/layout/news retained. Browser/mobile not verified for this edit. Baseline 9516506058d0e2fcf39f661e7b994dff7f1abd5b. Information centers enriched 7/10; next cooperative, prosecutor and court; content browser checks and responsive QA pending.
+
+## 2026-11-09 cooperative information-center enrichment
+Seven generic detail bodies replaced with original fictional cooperative content: introduction, member service discovery, reading resources, meeting news, organization, FAQ and documents. No financial advice, returns, real figures, member data or transactions. Static replacement assertion 7 passed; existing layout/news/source links retained. Browser/mobile not checked for this edit. Baseline b605f8aaba8ab09974da3c5ca5f8d1c678d15683. Information centers enriched 8/10; prosecutor and court next, then content browser QA and responsive verification.
