@@ -81,3 +81,6 @@ Seven generic modal bodies replaced with original fictional municipality-specifi
 
 ## 2026-11-08 PAO information-center enrichment
 Seven generic modal bodies replaced by original fictional PAO content: strategy, project lifecycle, public data, local networks, organization, FAQ and document library. No actual budgets, partnerships, official records, submissions or assessment claims. Static assertion exactly seven replacements; original source links/news/layout retained. Browser/mobile not tested for this edit. Baseline cc6db681b65ef9d92d61b5106f6b3b3a92b3958b. Information centers enriched 6/10. Next hospital, cooperative, prosecutor and court, then browser content and responsive QA.
+
+## 2026-11-09 hospital information-center enrichment
+Seven generic detail bodies replaced with original fictional hospital-specific content: department discovery, visitor guide, source-based eligibility information layout, news, organization, FAQ and documents. No medical advice, actual appointment/fee/eligibility promises, health data or real personnel. Static replacement count 7 passed; existing source links/layout/news retained. Browser/mobile not verified for this edit. Baseline 9516506058d0e2fcf39f661e7b994dff7f1abd5b. Information centers enriched 7/10; next cooperative, prosecutor and court; content browser checks and responsive QA pending.
