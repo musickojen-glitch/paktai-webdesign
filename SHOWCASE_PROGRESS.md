@@ -75,3 +75,6 @@ Replaced seven generic detail bodies with fictional clinic-specific information 
 
 ## 2026-11-08 subdistrict information-center enrichment
 Seven repeated information bodies replaced with original fictional local-government content: service discovery, planning, disclosure, procurement, organization, FAQ and documents. No actual requests, procurement figures, official records, personal data or assessment guarantees. Existing sources/layout/news retained. Static assertion exactly 7 replacements; browser/mobile not verified this pass. Baseline 3256853185e9e1247d1a82ee823cec3d9757f56b. Enriched information centers now 4/10; next municipality and PAO, then remaining categories, content browser QA and mobile.
+
+## 2026-11-08 municipality information-center enrichment
+Seven generic modal bodies replaced with original fictional municipality-specific content: city services, community discovery, environment, news, organization, FAQ and document library. No actual applications, payments, official schedules, figures or personal data. Layout/news/source links retained. Static replacement count 7 passed; browser/mobile not checked for this content edit. Baseline b32557c85cca3d0063c9867a235b884480d0d12e. Information-center enrichment now 5/10; next PAO, hospital, cooperative, prosecutor and court. Browser content checks and responsive QA remain pending.
