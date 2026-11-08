@@ -72,3 +72,6 @@ Seven generic detail bodies replaced with original fictional temple-specific con
 
 ## 2026-11-08 clinic information-center enrichment
 Replaced seven generic detail bodies with fictional clinic-specific information architecture (service categories, educational media, community coordination, previsit questions, organization, FAQ, documents). No medical advice, real schedules, eligibility, patient data or submissions. Existing layout and sources retained. Static replacement assertion passed: 7. Browser/mobile not tested for this edit. Baseline 84975c8a1f930448cb9fb0bfd711d9455aa8d778. Information enrichment now school/temple/clinic; remaining 7 categories next, plus browser content and mobile QA.
+
+## 2026-11-08 subdistrict information-center enrichment
+Seven repeated information bodies replaced with original fictional local-government content: service discovery, planning, disclosure, procurement, organization, FAQ and documents. No actual requests, procurement figures, official records, personal data or assessment guarantees. Existing sources/layout/news retained. Static assertion exactly 7 replacements; browser/mobile not verified this pass. Baseline 3256853185e9e1247d1a82ee823cec3d9757f56b. Enriched information centers now 4/10; next municipality and PAO, then remaining categories, content browser QA and mobile.
