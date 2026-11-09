@@ -150,3 +150,6 @@ At af60b0fde3344a5d944f5707c1b0184f6bc3dde7, GitHub showed no Cloudflare check r
 
 ## 2026-11-09 production keyboard QA
 Baseline bf18f2886fa3e8b68c99b265b52a4d98d95bbabb. In production Chrome, tested all seven information buttons on each of the hospital, PAO and cooperative demos (21 total). Enter opened a populated article dialog, Escape closed it, and focus returned to the originating button in all 21 cases. PAO and cooperative article bodies also matched the selected buttons. No product code changes. Next: verify the new hero illustrations visually and test 320, 390 and 768 px when a viewport-capable runner is available. Mobile layout and interactions remain unverified.
+
+## 2026-11-09 production hero QA
+Baseline 2a9d54726670a6fe5c745d7da24366d6b5384ea9. Opened all ten demo links from the live homepage in Chrome and verified ten distinct computed hero background URLs (three WebP and seven SVG). Desktop screenshots confirmed the new subdistrict building and PAO river map rendered behind their headlines. The other eight backgrounds were checked by computed URL only. No product code changed. Next: visually review the remaining five new SVG heroes after entrance animations settle, including text contrast, and test 320, 390 and 768 px with a viewport-capable runner. The previously documented mobile runner blocker remains.
