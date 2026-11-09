@@ -107,3 +107,7 @@ Production baseline 661009a70eab3047e033f833f630dcf369fcaf99. Browser clicked re
 
 ## 2026-11-09 prosecutor enriched-detail keyboard QA
 Production baseline 97999c100de8442e780c4ef541e207a410b796eb. Opened all seven prosecutor information-center buttons via Enter, observed matching distinct titles/bodies, dismissed each via Escape. Read-only DOM after every dismissal confirmed dialog open=false and focus returned to its originating button. All 7 passed this interaction. No code changes needed. Court and prosecutor enriched details now checked; eight other demos, pointer-close on prosecutor, showroom expansion and mobile remain pending. Next: school/clinic/temple enriched-detail checks, followed by remaining demos and responsive verification; preserve artwork queue. Browser completion-summary call still rejected by tool schema; no effect on observed checks.
+
+
+## 2026-11-09 school, clinic and temple detail QA
+Production baseline 01bc8e488a97872f956529c312456fd50b678da2. Opened all seven information-center details on each of /demos/school, /demos/clinic and /demos/temple in Chrome (21 total). Alternated Enter/Escape and pointer open/close. The browser showed the corresponding title and distinct body for each entry. After every close the dialog was closed and focus returned to its trigger. No defect requiring code change was found in these checks. Enriched details exercised on 5 of 10 demos so far. Next: subdistrict, municipality, hospital, PAO and cooperative details, then showroom and narrow viewport QA. Demo artwork remains queued.
