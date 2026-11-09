@@ -143,3 +143,7 @@ Baseline 44ab4f82cc4ec9de3c1b25cec7d3bda9039be666. Added two original SVGs: a fi
 
 ## 2026-11-09 PAO and subdistrict hero illustrations
 Baseline 707b02902dc9f30481c24d9bef2b8d38a5a5e05d. Added an original abstract river and regional route map to the PAO demo and a fictional tiled-roof civic building to the subdistrict demo. Both SVGs parsed, internal references resolved, and each demo replaced its old hero reference once. This closes the queued shared-hero replacements. Browser visual verification and responsive checks for the new images are pending. Next: verify the new heroes in production and complete pending keyboard and narrow viewport QA before any further design changes.
+
+
+## 2026-11-09 PAO and subdistrict production verification
+At af60b0fde3344a5d944f5707c1b0184f6bc3dde7, GitHub showed no Cloudflare check run or commit status. Live Chrome loaded both demo pages, but their computed hero backgrounds still referenced hero-reference-v2.webp. The updated illustrations could not be visually tested in production. This progress-only commit also gives the existing Pages integration another push to process. If it produces no check, inspect the Cloudflare Pages deployment history and Git integration for main before making further deployment-only commits. Next: confirm live hero URLs, inspect rendering, then finish keyboard and mobile QA.
