@@ -115,3 +115,7 @@ Production baseline 01bc8e488a97872f956529c312456fd50b678da2. Opened all seven i
 
 ## 2026-11-09 remaining five demos detail QA
 Production baseline ec523a09b2460350b51106e2ef59ad02bfbd6f6b. Verified seven distinct information-center details each for subdistrict, municipality, hospital, PAO and cooperative (35 total). Subdistrict and municipality alternated Enter/Escape with pointer open/close. Hospital's initial Enter check at the visitor guide did not open the dialog in this browser session. Hospital, PAO and cooperative subsequently passed pointer open/close for all seven, with matching dialog title/body and focus restoration. Keyboard coverage for those three is still pending. All 10 demos now have production detail coverage by at least one input method. Next: isolate the hospital keyboard result by tabbing to the actual trigger, then run showroom expansion and narrow viewport QA. Demo artwork remains queued.
+
+
+## 2026-11-09 hospital visitor-guide keyboard retest
+Production baseline cd0d46705b49074a20665f05a354d0e2875d2edd. In Chrome, traversed the page with Tab until the actual information-center visitor-guide button was focused. Enter opened the dialog with the matching heading. Escape closed it and restored focus to the same button. The earlier failed activation did not recur on this route. Remaining keyboard checks: six hospital detail buttons and PAO/cooperative. Next priority: showroom expand, close and separate-tab flow, then narrow viewport QA and demo artwork.
