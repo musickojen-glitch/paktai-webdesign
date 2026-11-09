@@ -153,3 +153,6 @@ Baseline bf18f2886fa3e8b68c99b265b52a4d98d95bbabb. In production Chrome, tested 
 
 ## 2026-11-09 production hero QA
 Baseline 2a9d54726670a6fe5c745d7da24366d6b5384ea9. Opened all ten demo links from the live homepage in Chrome and verified ten distinct computed hero background URLs (three WebP and seven SVG). Desktop screenshots confirmed the new subdistrict building and PAO river map rendered behind their headlines. The other eight backgrounds were checked by computed URL only. No product code changed. Next: visually review the remaining five new SVG heroes after entrance animations settle, including text contrast, and test 320, 390 and 768 px with a viewport-capable runner. The previously documented mobile runner blocker remains.
+
+## 2026-11-09 browser QA blocker
+Baseline 57acf6798eb9ebe714cd1c986a11fdc503a7dee3. This session has no browser control tool and the local executor failed to start a shell process (exec-server: No such file or directory). No new visual or responsive result was obtained. Resume once a working browser runner is available. Review the five outstanding SVG heroes and test the homepage, viewer and demos at 320, 390 and 768 px. No site code changes.
