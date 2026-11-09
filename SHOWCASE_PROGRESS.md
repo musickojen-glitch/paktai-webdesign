@@ -139,3 +139,7 @@ Baseline 6f41f8411679eddf155ecf94b219b2aacace33e9. Replaced shared hero artwork 
 
 ## 2026-11-09 prosecutor and municipality hero illustrations
 Baseline 44ab4f82cc4ec9de3c1b25cec7d3bda9039be666. Added two original SVGs: a fictional civic office with arched windows for prosecutor and a waterfront townscape for municipality. Updated the two demo hero references. Both SVGs parsed, internal references resolved, and each replaced its intended prior asset reference exactly once. Browser rendering, viewer interaction and narrow viewport testing remain unverified for these new images. Next: PAO and subdistrict hero artwork, then verify the new illustrations in the browser and finish outstanding keyboard and narrow viewport QA.
+
+
+## 2026-11-09 PAO and subdistrict hero illustrations
+Baseline 707b02902dc9f30481c24d9bef2b8d38a5a5e05d. Added an original abstract river and regional route map to the PAO demo and a fictional tiled-roof civic building to the subdistrict demo. Both SVGs parsed, internal references resolved, and each demo replaced its old hero reference once. This closes the queued shared-hero replacements. Browser visual verification and responsive checks for the new images are pending. Next: verify the new heroes in production and complete pending keyboard and narrow viewport QA before any further design changes.
