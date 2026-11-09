@@ -131,3 +131,7 @@ Baseline 3206064d089c9bf53349d085a0b03402ba7cf660. Reviewed homepage and demo vi
 
 ## 2026-11-09 original courthouse hero
 Baseline dee9419907c506c7c11e91129e7a1c9cb8bed470. Added an original SVG showing a fictional courthouse against layered Southern hills. Applied it only to the court demo in place of shared hero artwork. XML parse and local vector element checks passed. Browser layout and interaction were not retested for this artwork change. Next: continue distinct artwork for the other shared-image demos and complete remaining keyboard QA. Narrow viewport testing still needs a working browser runner.
+
+
+## 2026-11-09 hospital and cooperative hero illustrations
+Baseline 6f41f8411679eddf155ecf94b219b2aacace33e9. Replaced shared hero artwork on the hospital and cooperative demos with original, self-contained SVGs. Hospital depicts a fictional glass hospital at blue hour. Cooperative depicts Southern fields and a community barn. XML validation and HTML asset reference checks passed. Browser rendering, interaction and narrow viewport checks were not rerun for this change. Next: prosecutor, municipality, PAO and subdistrict artwork, then visual verification of the new heroes and remaining keyboard and mobile QA.

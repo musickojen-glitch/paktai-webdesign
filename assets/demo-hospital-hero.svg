@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 640">
+<title>Fictional hospital at blue hour</title>
+<defs>
+<linearGradient id="sky" x2="0" y2="1"><stop stop-color="#173453"/><stop offset="1" stop-color="#6db6ca"/></linearGradient>
+<linearGradient id="glass" x2="1" y2="1"><stop stop-color="#155775"/><stop offset="1" stop-color="#76d3d5"/></linearGradient>
+<pattern id="grid" width="58" height="45" patternUnits="userSpaceOnUse"><rect width="58" height="45" fill="url(#glass)"/><path d="M0 0h58v45" fill="none" stroke="#c9e4e6" stroke-width="3"/><path d="M8 37 39 7" stroke="#fff" opacity=".25" stroke-width="2"/></pattern>
+</defs>
+<path d="M0 0h1440v640H0z" fill="url(#sky)"/>
+<circle cx="1134" cy="112" r="53" fill="#bce7dd" opacity=".63"/>
+<path d="M0 445 190 368 388 408 562 342 774 438 955 364 1168 409 1440 351v289H0z" fill="#24566a"/>
+<path d="M722 513V292h210v221zm479 0V239h177v274z" fill="#c1d9da"/>
+<path d="M738 316h173v174H738zm480-53h142v227h-142z" fill="url(#grid)"/>
+<path d="M902 526V202l295-41v365z" fill="#e5efed"/>
+<path d="M926 227l248-35v277H926z" fill="url(#grid)"/>
+<path d="M1060 208v258M926 366h248" stroke="#ebf4ef" stroke-width="8"/>
+<path d="M875 468h356l48 32H828z" fill="#6dccce"/>
+<path d="M850 502h399v14H850zm21 14h10v51h-10zm344 0h10v51h-10z" fill="#e5efed"/>
+<path d="M0 570h1440v70H0z" fill="#143d4e"/>
+<path d="m714 640 242-77h160l189 77z" fill="#496776"/>
+<path d="m837 630 154-61m216 61-103-61" stroke="#bde3db" opacity=".7" fill="none" stroke-width="3"/>
+<g fill="#286474"><circle cx="759" cy="524" r="36"/><circle cx="1325" cy="527" r="37"/><circle cx="1382" cy="541" r="43"/></g>
+</svg>

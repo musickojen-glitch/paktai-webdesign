@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 640">
+<title>Fictional Southern cooperative harvest landscape</title>
+<defs><linearGradient id="sky" x2="0" y2="1"><stop stop-color="#294b49"/><stop offset="1" stop-color="#e9b76b"/></linearGradient><linearGradient id="paddy" x2="0" y2="1"><stop stop-color="#a2ae57"/><stop offset="1" stop-color="#366343"/></linearGradient></defs>
+<path d="M0 0h1440v640H0z" fill="url(#sky)"/>
+<circle cx="1110" cy="212" r="87" fill="#ffe0a2"/>
+<path d="M0 398 199 334 318 359 524 261 731 359 935 303 1157 365 1329 296 1440 349v291H0z" fill="#527756"/>
+<path d="M0 446q230-69 425-34t420-3q286-66 595 4v227H0z" fill="url(#paddy)"/>
+<path d="M0 496q320-58 659-19t781-42m-1440 115q357-44 700-21t740-61m-1440 135q392-34 740-20t700-76" fill="none" stroke="#e4c17a" stroke-width="5" opacity=".55"/>
+<path d="M744 640q35-92 196-153t190-61q-9 15-156 88T914 640z" fill="#d2b175"/>
+<path d="M1021 460v-112h205v112z" fill="#f2cf8c"/>
+<path d="m987 355 136-106 132 106z" fill="#733e34" stroke="#d7a260" stroke-width="5"/>
+<path d="M1091 460v-82h66v82z" fill="#304f40"/>
+<path d="M1037 382h31v37h-31zm147 0h27v37h-27z" fill="#6b774a"/>
+<path d="M1013 461h223v9h-223z" fill="#8c644a"/>
+<g fill="none" stroke="#304d38" stroke-width="7" stroke-linecap="round"><path d="M1324 438q-8-104 31-195m0 0q-62-39-102 5m102-5q-41-69-81-61m81 61q23-73 72-59m-72 59q50-35 82 8"/></g>
+<g fill="#edc66d"><path d="M985 610q-22-29-18-49 21 13 18 49q3-43 24-52-1 29-24 52z"/><path d="M1010 594q-22-29-18-49 21 13 18 49q3-43 24-52-1 29-24 52z"/><path d="M1048 578q-22-29-18-49 21 13 18 49q3-43 24-52-1 29-24 52z"/><path d="M1102 610q-22-29-18-49 21 13 18 49q3-43 24-52-1 29-24 52z"/><path d="M1170 594q-22-29-18-49 21 13 18 49q3-43 24-52-1 29-24 52z"/><path d="M1240 578q-22-29-18-49 21 13 18 49q3-43 24-52-1 29-24 52z"/><path d="M1280 610q-22-29-18-49 21 13 18 49q3-43 24-52-1 29-24 52z"/><path d="M1350 594q-22-29-18-49 21 13 18 49q3-43 24-52-1 29-24 52z"/><path d="M1400 578q-22-29-18-49 21 13 18 49q3-43 24-52-1 29-24 52z"/></g>
+</svg>
