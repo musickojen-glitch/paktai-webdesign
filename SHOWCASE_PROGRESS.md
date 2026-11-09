@@ -147,3 +147,6 @@ Baseline 707b02902dc9f30481c24d9bef2b8d38a5a5e05d. Added an original abstract ri
 
 ## 2026-11-09 PAO and subdistrict production verification
 At af60b0fde3344a5d944f5707c1b0184f6bc3dde7, GitHub showed no Cloudflare check run or commit status. Live Chrome loaded both demo pages, but their computed hero backgrounds still referenced hero-reference-v2.webp. The updated illustrations could not be visually tested in production. This progress-only commit also gives the existing Pages integration another push to process. If it produces no check, inspect the Cloudflare Pages deployment history and Git integration for main before making further deployment-only commits. Next: confirm live hero URLs, inspect rendering, then finish keyboard and mobile QA.
+
+## 2026-11-09 production keyboard QA
+Baseline bf18f2886fa3e8b68c99b265b52a4d98d95bbabb. In production Chrome, tested all seven information buttons on each of the hospital, PAO and cooperative demos (21 total). Enter opened a populated article dialog, Escape closed it, and focus returned to the originating button in all 21 cases. PAO and cooperative article bodies also matched the selected buttons. No product code changes. Next: verify the new hero illustrations visually and test 320, 390 and 768 px when a viewport-capable runner is available. Mobile layout and interactions remain unverified.
