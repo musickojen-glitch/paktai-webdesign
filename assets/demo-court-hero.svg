@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 640">
+<title>Illustration of a fictional courthouse</title>
+<defs>
+  <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#131f3b"/><stop offset="1" stop-color="#6a6680"/></linearGradient>
+  <radialGradient id="light"><stop stop-color="#ffdca4"/><stop offset="1" stop-color="#e8ad68" stop-opacity="0"/></radialGradient>
+  <linearGradient id="stone" x2="0" y2="1"><stop stop-color="#f6dfb3"/><stop offset="1" stop-color="#b08d69"/></linearGradient>
+  <pattern id="windows" width="54" height="54" patternUnits="userSpaceOnUse"><rect x="13" y="8" width="26" height="32" rx="2" fill="#213a58"/><path d="M26 8v32M13 24h26" stroke="#a98a6a" fill="none"/></pattern>
+</defs>
+<path fill="url(#sky)" d="M0 0h1440v640H0z"/>
+<ellipse cx="1080" cy="294" rx="420" ry="292" fill="url(#light)" opacity=".63"/>
+<circle cx="1158" cy="148" r="70" fill="#f1d3a0" opacity=".8"/>
+<path d="M0 478 175 367 320 439 503 318 683 437 815 348 987 451 1228 336 1440 425V640H0z" fill="#343c55"/>
+<path d="M0 516 217 427 408 523 593 422 738 502 990 409 1190 475 1440 406V640H0z" fill="#26384b"/>
+<path d="M714 514V332h629v182z" fill="#b59a7c"/>
+<path d="M728 354h605v140H728z" fill="url(#windows)"/>
+<path d="M694 332h662l-27-24H720z" fill="#3a475e"/>
+<path d="M815 519V318h422v201z" fill="url(#stone)"/>
+<path d="M794 329 1026 202 1258 329z" fill="#343d54" stroke="#ddbf83" stroke-width="6"/>
+<path d="M847 316 1026 220 1205 316z" fill="none" stroke="#b99464" stroke-width="2"/>
+<path d="M817 340h419v15H817z" fill="#e7c995"/>
+<path d="M971 513V411a55 55 0 0 1 110 0v102z" fill="#20374e"/>
+<path d="M1026 382v129m-53-75h106" fill="none" stroke="#ba9c73" stroke-width="3"/>
+<path d="M846 356h33v151h-33z" fill="url(#stone)" stroke="#9c795b"/><path d="M841 356h43m-43 151h43" stroke="#705a52" stroke-width="5"/>
+<path d="M907 356h33v151h-33z" fill="url(#stone)" stroke="#9c795b"/><path d="M902 356h43m-43 151h43" stroke="#705a52" stroke-width="5"/>
+<path d="M1120 356h33v151h-33z" fill="url(#stone)" stroke="#9c795b"/><path d="M1115 356h43m-43 151h43" stroke="#705a52" stroke-width="5"/>
+<path d="M1181 356h33v151h-33z" fill="url(#stone)" stroke="#9c795b"/><path d="M1176 356h43m-43 151h43" stroke="#705a52" stroke-width="5"/>
+<path d="M803 518h448v13H803zm-19 16h486v12H784zm-21 15h528v12H763z" fill="#a9866c"/>
+<path d="M0 578q244-45 462-11t510 5q208-24 468 3v65H0z" fill="#172b38"/>
+<path d="M760 640 952 562h150l190 78z" fill="#6b646a"/>
+<path d="M813 623h425m-380-18h333m-287-18h244" stroke="#bda382" opacity=".62"/>
+</svg>

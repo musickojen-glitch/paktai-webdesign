@@ -127,3 +127,7 @@ Baseline 54153ede5b1224d3d9bd2fb7b4c3c9f82ae94ab7. Chrome at /#examples opened a
 
 ## 2026-11-09 narrow viewport QA attempt
 Baseline 3206064d089c9bf53349d085a0b03402ba7cf660. Reviewed homepage and demo viewport and media-query configuration in source. Local Playwright is installed, but no Chromium executable is present. The official headless browser installer received an invalid or truncated ZIP. The previous live browser interface does not expose viewport resizing. No mobile render or interaction test ran, and no product code changed. Do not repeat the same download in the same environment. Use a runner with a working Chromium binary to check 320, 390 and 768 px for homepage, dialog toolbar, frame scrolling and the ten demos. Until that runner is available, finish outstanding keyboard checks or take the queued demo artwork work.
+
+
+## 2026-11-09 original courthouse hero
+Baseline dee9419907c506c7c11e91129e7a1c9cb8bed470. Added an original SVG showing a fictional courthouse against layered Southern hills. Applied it only to the court demo in place of shared hero artwork. XML parse and local vector element checks passed. Browser layout and interaction were not retested for this artwork change. Next: continue distinct artwork for the other shared-image demos and complete remaining keyboard QA. Narrow viewport testing still needs a working browser runner.
