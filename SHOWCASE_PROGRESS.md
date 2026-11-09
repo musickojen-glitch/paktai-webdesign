@@ -135,3 +135,7 @@ Baseline dee9419907c506c7c11e91129e7a1c9cb8bed470. Added an original SVG showing
 
 ## 2026-11-09 hospital and cooperative hero illustrations
 Baseline 6f41f8411679eddf155ecf94b219b2aacace33e9. Replaced shared hero artwork on the hospital and cooperative demos with original, self-contained SVGs. Hospital depicts a fictional glass hospital at blue hour. Cooperative depicts Southern fields and a community barn. XML validation and HTML asset reference checks passed. Browser rendering, interaction and narrow viewport checks were not rerun for this change. Next: prosecutor, municipality, PAO and subdistrict artwork, then visual verification of the new heroes and remaining keyboard and mobile QA.
+
+
+## 2026-11-09 prosecutor and municipality hero illustrations
+Baseline 44ab4f82cc4ec9de3c1b25cec7d3bda9039be666. Added two original SVGs: a fictional civic office with arched windows for prosecutor and a waterfront townscape for municipality. Updated the two demo hero references. Both SVGs parsed, internal references resolved, and each replaced its intended prior asset reference exactly once. Browser rendering, viewer interaction and narrow viewport testing remain unverified for these new images. Next: PAO and subdistrict hero artwork, then verify the new illustrations in the browser and finish outstanding keyboard and narrow viewport QA.
