@@ -119,3 +119,7 @@ Production baseline ec523a09b2460350b51106e2ef59ad02bfbd6f6b. Verified seven dis
 
 ## 2026-11-09 hospital visitor-guide keyboard retest
 Production baseline cd0d46705b49074a20665f05a354d0e2875d2edd. In Chrome, traversed the page with Tab until the actual information-center visitor-guide button was focused. Enter opened the dialog with the matching heading. Escape closed it and restored focus to the same button. The earlier failed activation did not recur on this route. Remaining keyboard checks: six hospital detail buttons and PAO/cooperative. Next priority: showroom expand, close and separate-tab flow, then narrow viewport QA and demo artwork.
+
+
+## 2026-11-09 production showroom interaction QA
+Baseline 54153ede5b1224d3d9bd2fb7b4c3c9f82ae94ab7. Chrome at /#examples opened all 10 demo previews, alternating mouse and Enter. Each displayed its own heading inside the frame and the separate-tab link matched the selected demo. Closed with the button or Escape, then waited for the close event to clear the frame. Focus returned to the selected link and page scrolling was unlocked for all 10. Clicked the cooperative separate-tab link and confirmed the new tab loaded /demos/cooperative with the expected title. Only that separate-tab activation was tested in this run. No product code change was needed. Next: run narrow viewport QA for the homepage, showroom and demos with a viewport-capable runner, and finish keyboard detail checks for hospital, PAO and cooperative. Demo-specific artwork remains queued.
