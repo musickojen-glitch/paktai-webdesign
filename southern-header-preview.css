@@ -16,3 +16,10 @@
 .southern-menu a{display:inline-flex;align-items:center;justify-content:center;min-height:41px;padding:8px 16px;border-radius:30px;border:2px solid #ffc24a;background:linear-gradient(#bc2918,#72040b);color:#fff4c8;font:700 14px Prompt,system-ui;box-shadow:inset 0 1px 2px #fff7bd9e,0 3px 0 #3e0710,0 0 8px #ffba2a;white-space:nowrap}
 .southern-menu a:hover,.southern-menu a:focus-visible{background:linear-gradient(#ffbf30,#d95c0e);color:#241034;outline:2px solid #fff5b2;outline-offset:2px}
 @media(max-width:650px){.southern-masthead{min-height:145px;padding:18px 10px 12px}.southern-title{font-size:clamp(29px,8vw,44px);-webkit-text-stroke:.6px #55200c}.southern-flourish{display:none}.southern-puppet{font-size:55px;opacity:.55}.southern-sun{width:260px;height:200px;top:-55px}.southern-boat{display:none}.southern-menu{gap:6px;padding:8px}.southern-menu a{font-size:12px;padding:7px 10px;min-height:36px}}
+
+/* Actual scalable SVG artwork instead of CSS-only placeholder */
+.southern-nav{background:#6d0d1b url('/assets/southern-seascape.svg') center center / cover no-repeat}
+.southern-sky{display:none}
+.southern-masthead{min-height:210px;background:linear-gradient(90deg,#30021b8c,transparent 30%,transparent 70%,#30021b8c)}
+.southern-title{background:linear-gradient(#640a13e6,#9a120ad9);border:4px ridge #f8ce56;border-radius:32px;padding:5px 28px;box-shadow:0 5px 22px #21020e,0 0 18px #ffdc54}
+@media(max-width:650px){.southern-masthead{min-height:175px}.southern-title{padding:5px 12px;border-width:3px}}
