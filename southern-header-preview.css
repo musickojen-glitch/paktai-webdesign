@@ -1,0 +1,15 @@
+/* Southern shadow-puppet-inspired header treatment — preview only */
+.nav{position:sticky;isolation:isolate;background:linear-gradient(115deg,#4a060c 0%,#980b18 29%,#5c0810 58%,#25050a 100%);border-bottom:5px solid #e9ad36;box-shadow:0 5px 0 #75100d,0 12px 24px #2c090c7a}
+.nav:before{content:"";pointer-events:none;position:absolute;inset:0;background:repeating-linear-gradient(125deg,transparent 0 38px,#f7bf4a12 39px 41px,transparent 42px 75px),radial-gradient(ellipse at 12% 0%,#ffd8706e,transparent 28%),radial-gradient(ellipse at 89% 100%,#ffb43255,transparent 29%);z-index:-1}
+.nav:after{content:"";position:absolute;pointer-events:none;inset:5px 9px 7px;border-top:2px solid #f7d67e;border-bottom:1px solid #f7d67e;opacity:.65}
+.nav .wrap{min-height:96px;position:relative}
+.nav .brand{padding:9px 12px 9px 0}
+.nav .brand b{font-size:clamp(21px,2.3vw,31px);color:#fff2b9;text-shadow:0 2px 0 #8b240d,0 4px 8px #160304,0 0 15px #ffc04a}
+.nav .brand b em{color:#ffd54f;text-shadow:0 2px 0 #8b240d,0 0 12px #ffbd3b}
+.nav .brand small,.nav .brand .slogan{color:#fff1cc}
+.nav .mark{border:2px solid #ffe7a0;border-radius:50%;clip-path:none;background:radial-gradient(circle at 35% 25%,#fff5bb,#e7a72a 50%,#9b2512);box-shadow:0 0 0 3px #8a160c,0 0 18px #ffc852}
+.nav .navlinks a{color:#fff1c9;text-shadow:0 2px 4px #240407;font-weight:700}
+.nav .navlinks a:hover,.nav .navlinks a:focus-visible{color:#fff;background:#b12b1e}
+.paktai-south-ornament{display:flex;align-items:center;justify-content:center;gap:14px;background:linear-gradient(90deg,#540b0b,#9e151a 35%,#8d1219 65%,#500808);color:#ffdc78;min-height:31px;border-bottom:3px solid #d8a23c;letter-spacing:.07em;font-weight:700;font-size:12px;text-align:center}
+.paktai-south-ornament:before,.paktai-south-ornament:after{content:"❧ ❖ ❧";font-size:15px;color:#ffce60}
+@media(max-width:700px){.nav .wrap{min-height:83px}.nav .brand b{font-size:21px}.nav:after{inset:4px 5px 5px}.paktai-south-ornament{font-size:10px;padding:5px 9px}.paktai-south-ornament:before,.paktai-south-ornament:after{content:"❖"}}
